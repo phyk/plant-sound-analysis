@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Project specific exclusions
-01_spikerbox_recordings/
+01_spikerbox_recordings
